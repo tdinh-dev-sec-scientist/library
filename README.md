@@ -21,3 +21,10 @@ A simple Java-based Library Management System that allows users to add, update, 
 ```bash
 java guiFinal.java
 
+##💡 Learning Goals
+Practice with object-oriented design in Java
+Learn file handling and basic data structures
+Improve logical thinking through console-based UI
+
+##📄 License
+This project is open-source and available under the MIT License.
