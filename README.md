@@ -17,4 +17,5 @@ A simple Java-based Student Management System that allows users to add, update, 
 
 ## 🎮 How to Run
 ```bash
-java 
+java guiFinal.java
+
