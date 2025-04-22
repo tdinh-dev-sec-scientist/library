@@ -1,12 +1,14 @@
-# 📚 Project Title: Student Management System
+# 📚 Project Title: Library Management System
 
-A simple Java-based Student Management System that allows users to add, update, delete, and view student records using a console interface.
+A simple Java-based Library Management System that allows users to add, update, delete, and view books records using a console interface.
 
 ## 🚀 Features
-- Add new students with unique ID
-- Update student details
-- Delete student records
-- View all students in the system
+- Easy-to-see interface
+- Add new book with unique ISBN
+- Update book details
+- Delete book records
+- View all books in the system
+- Lending management
 
 ## 🛠️ Technologies Used
 - Java (JDK 24)
